@@ -1,0 +1,282 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Distracted Englands lamentation, dangerously lying upon her sicke bed: with her last refuge for cure, unto the wholesome physicke of repentance and humiliation. Iuly 14. 1646. Imprimatur, Iohn Downame.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81556</idno>
+            <idno type="STC">Wing D1695</idno>
+            <idno type="STC">Thomason E510_9</idno>
+            <idno type="STC">ESTC R205612</idno>
+            <idno type="EEBO-CITATION">99864941</idno>
+            <idno type="PROQUEST">99864941</idno>
+            <idno type="VID">117174</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81556)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117174)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 80:E510[9])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Distracted Englands lamentation, dangerously lying upon her sicke bed: with her last refuge for cure, unto the wholesome physicke of repentance and humiliation. Iuly 14. 1646. Imprimatur, Iohn Downame.</title>
+               </titleStmt>
+               <extent>[2], 3, 6-8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Richard Harper at the Bible and Harpe in Smithfield,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Text continuous despite pagination.</note>
+                  <note>Annotation on Thomason copy: "July 27.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:117174:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 79 -->
+            <p>DISTRACTED ENGLANDS LAMENTATION, Dangerouſly lying upon her ſicke Bed: With her laſt refuge for Cure, unto the wholeſome Phyſicke OF REPENTANCE and HUMILIATION.</p>
+            <q>
+               <p>Repent for the Kingdome of heaven is at hand.</p> 
+               <bibl>Matt. 2.</bibl>
+            </q>
+            <figure>
+               <sp>
+                  <p>To end this War, Weepe, Faſt, and P<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>y</p>
+               </sp>
+            </figure>
+            <p>
+               <floatingText xml:lang="lat">
+                  <body>
+                     <div type="imprimatur">
+                        <opener>
+                           <dateline>
+                              <date>Iuly 14. 1646.</date>
+                           </dateline>
+                        </opener>
+                        <p>Imprimatur,</p>
+                        <closer>
+                           <signed>Iohn Downame.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <add>JULY 27.</add> 
+               <hi>LONDON,</hi> Printed for <hi>Richard Harper</hi> at the Bible and Harpe in Smithfield. 1646.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:117174:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 80 -->
+            <pb n="1" facs="tcp:117174:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 80 -->
+            <head>Diſtracted Englands Lamentation.</head>
+            <p>
+               <seg rend="decorInit">T</seg>O lament is a thing ſeaſonable to all that are in miſe<g ref="char:EOLhyphen"/>ry. And of all miſeries, Warre is the greateſt, for it doth moſt miſchiefe, and hath leaſt mercy. And for that cauſe David choſe rather to fall into the hands of God, then into the hands of men. But of all Warre, that we call Civill is the moſt rude, mer<g ref="char:EOLhyphen"/>cileſſe and unnaturall, (of which I think wee are not now to be inſtructed) for it armeth the Father againſt the Son, and Son againſt the Father. One Kinſman againſt ano<g ref="char:EOLhyphen"/>ther, and one Friend againſt another. It bringeth deſolation and confuſi<g ref="char:EOLhyphen"/>on to a Kingdome. By it all Order is broken; all Laws are violated, all Decency is anoulled. In the time of her impious raigne, Liberty gives ſtrength to Errour, Coveteouſneſſe uphouldeth Extortion, and Ambiti<g ref="char:EOLhyphen"/>on nouriſheth Diſcord. Vice rideth on her Foot-cloth, and Vertue way<g ref="char:EOLhyphen"/>teth at the Stirrop. Whatſoever liſteth is lawfull; what is truth and ho<g ref="char:EOLhyphen"/>neſty, doubtfull; and all villany uſefull, it is like a Wilde Boare in a Vi<g ref="char:EOLhyphen"/>neyard, that maketh havock of the Grapes and deſtroyeth the Vines. Like a great wind vpon the Land that overthroweth Townes, Towers and Caſtles. It is the Be<gap reason="illegible: damage" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſt that with his tayle ſweepeth downe the Starres from the Firmament<g ref="char:punc">▪</g> The Land Leviathan that ſwalloweth and devou<g ref="char:EOLhyphen"/>reth all, as well th<gap reason="illegible: damage" extent="1 letter">
+                  <desc>•</desc>
+               </gap> g<gap reason="illegible: damage" extent="2 letters">
+                  <desc>••</desc>
+               </gap>at ones as the fry. It is the Varlet of that Martiall Divell that is ſworne to betray his owne bloud to miſery, his owne Coun<g ref="char:EOLhyphen"/>try to ruine. Of which poore England, who is at this preſent under the bloudy wings of this fatall miſchiefe, doth not a little, nor without cauſe complaine in her lamentation following.</p>
+            <p>Have pitty on mee! have pitty on mee! at leaſtwiſe you that are my Freinds, for the hand of my Lord, hath toucht mee. God has ſprung the Mine of his wrath into me, and wounded me with a moſt unnaturall civill warre, which is of all other the moſt grievous and deſtructive. Every day hee cutteth mee with the whetted ſword of his irefull juſtice with the rod of his fury; with the iron rod of his indignation he hath whipped mee on all ſides. On the Eaſt, and on the Weſt. On the North, and on the South. I am full of ſtripes. He has not leſt a free place in me. O have pluy on me!</p>
+            <p>By what a ſteepe precipic<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> have I fall'n downe headlong to deſtruction
+<pb n="2" facs="tcp:117174:3"/>
+               <!-- PDF PAGE 81 -->and ruine! I that whilom enjoyed ſweetes of peace, and bleſſed plenty with ſo great quiet and ſecurity. I that was ſo late admired of the whole World for faire and opulent Cittys. For buildings of honor and antiquity: For houſes of liberall and hoſpitable entertainment; For fields as fertill and profitable as delightfull; For woods and forreſts both beautifull and ſpacious; For good and wholſome temper, ſubject to no malignant influ<g ref="char:EOLhyphen"/>ence: For all manner of proviſion. My downes were covered ore with ſheepe, my vallies fil'd with neate, my parkes with deere, my ponds with fiſh; and the fethered game in every ſpecies abounding, and multiplying. Nothing that could be thought neceſſary either for pleaſure or ſuſte<g ref="char:EOLhyphen"/>nance, but I could boaſt of it from the liberall hand of God and nature.</p>
+            <p>But now the black curtaine of deſolation is drawne over mee, which was evicted from every Kingdom that is divided within it ſelfe. God has let downe the viſitation of his wrath upon mee, becauſe I would not know him in time of plenty. Becauſe in time of peace I would not make my peace with him; therefore he hath removed that Candleſtick of his bleſ<g ref="char:EOLhyphen"/>ſing, and hath brought in a foe that hath beſieg'd mee round. A Warre, a Civill Warre, by which I am in all things impoveriſht and brought to beggery. The hookes of Warre are faſten'd into my ſides, by which ma<g ref="char:EOLhyphen"/>ny of my faireſt Townes and Edifices have beene pulled downe and de<g ref="char:EOLhyphen"/>moliſhed, without regard either to honour or antiquity. Yea my very Chur<g ref="char:EOLhyphen"/>ches have beene caſt downe to their firſt bedds, and their ſteeples layd le<g ref="char:EOLhyphen"/>vell with the earth. Many a good houſe by violence and unjuſt oppreſſi<g ref="char:EOLhyphen"/>ons, are become both inhoſpitable and inhabitable My fields are filled with Warres, irefull confuſion. The greene ſoar<gap reason="illegible: damage" extent="1 letter">
+                  <desc>•</desc>
+               </gap> is turned into a crimſon goare: All fragrancy and delight converted into <gap reason="illegible: bleedthrough" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſpectacle of horror. The tillage and labour of the painfull O<gap reason="illegible" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>e is trampled under foo<gap reason="illegible: bleedthrough" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e. My forreſts lie at waſte: My woods goe to decay by the cruell Axe of Warre, that has pierced the heart of many a ſound oke. I have loſt my temper: And my very aire now is infected with malignancy. There is no health nor ſecurity in mee at all. The Lambe is not ſecure in the ſold nor the bird in the neſt, nor the infant at the breaſt of the Mother. My woes are be<g ref="char:EOLhyphen"/>yond expreſſion. I am caſt downe belowe the boſe of miſery. I am fallen into the pitt of ruine. O have pitty on mee! have pitty on mee! at leaſt<g ref="char:EOLhyphen"/>wiſe you that are my Friends!</p>
+            <p>But England, whom doeſt thou ſpeake unto? whom dooſt thou call upon for pitty? upon Friends! what Friends? where are they? in the Citty? in the Country? in the Court? I muſt confeſſe all ought to be thy Friends, from the higheſt Rulers to the meaneſt Subject. For thou Eng<g ref="char:EOLhyphen"/>land haſt beene a deare Mother unto us all. Our firſt aire wee drewe from thee, and our firſt milke. I is a juſt loyallty of us all, and a duty which
+<pb n="3" facs="tcp:117174:3"/>
+               <!-- PDF PAGE 81 -->wee all owe to love and not our thee, in regard thou are our deareſt Country, and wee are all thine by birth right. Thy King. Thy State. The whole Common-wealth is thine. Why ſhould not all then be thy Subjects, and thy Friends? why ſhould any degenerate from his loyalty to thee? or be ſo cruell as by ſword or fire to looke and worke thy deſtru<g ref="char:EOLhyphen"/>ction? Children are condemned that are unnaturall to their Parents. None but vipers deſtroy their Mother. What name then is due unto ſuch as ſeeke the ruine of their Country? thou haſt beene our Nurſe and Suckler in all our neceſſities; and now to returne thee ſo much evill for good, is a hard meaſure.</p>
+            <p>Wee have no reaſon; wee are madd: wee knowe not what wee doe. Elſe wee would collect and underſtand, that all the abuſe and wrong wee doe unto our Country; all the ſpoyle and havock wee make on her, is a rape and violence committed upon our ſelues. Wee drawe our owne bloud in drawing hers. Wee cut off the breſt from whence wee have our milke. Wee deſtroy the hand hat putreth bread into our mouthes. Wee ripp up and riffel the womb from whence proceedeth all our plenty and livelihood. And not only to our ſelves is this done, but alſo unto our Children that ſhall com<gap reason="illegible: bleedthrough" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible: damage" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fter, whoſe curſes will hang upon us in poſte<g ref="char:EOLhyphen"/>rity.</p>
+            <p>Yet there is nothing now left unattmpted not unperpetrated which the malice of this cruell and unjuſt Warre can reach unto. All Grace, all Ver<g ref="char:EOLhyphen"/>tue and Goodneſſe whatſoever, wee ſee brought to the battery, and ſub<g ref="char:EOLhyphen"/>dued by their Opp<gap reason="illegible: bleedthrough" extent="7 letters">
+                  <desc>〈7 letters〉</desc>
+               </gap>
+               <g ref="char:punc">▪</g> Modeſty is expulſed by the ſtrength of Impu<g ref="char:EOLhyphen"/>dence: Coveteou<gap reason="illegible: damage" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap> 
+               <gap reason="illegible: damage" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ath maſtered Liberallity: Pride inſulteth over Humllity: Falſho<gap reason="illegible: damage" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible: damage" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> beaten Truth out of the field: Errour maketh Religion her quarry. Theſe are the Conquerours of the times. Theſe are they that have ſet up Liberty in the Throne of diſcipline: By whom all good Laws both divine and humane are violated: All holy engage<g ref="char:EOLhyphen"/>ments and Covenants of Religion are broken: All obligations of amity and friendſhip are made voyd; and even the neereſt bonds of nature can<g ref="char:EOLhyphen"/>celled. O lamentable Times! O execrable manners! It were miſery e<g ref="char:EOLhyphen"/>nough to ſee ſuch impleties, ſuch helliſh wrath und cruelty in the hearts of any Chriſtians whatſoever. For they ought to be of a Celeſtiall and Divine temper. But much more in the hearts of Chriſtians and Country<g ref="char:EOLhyphen"/>men in the hearts of Kindred and Alliance of Friends and Acquaintance. That ſuch hearts ſhould differ; or have that hardneſſe and ſtony rancor, as to oppoſe and injure one another ſo inhumanly, filleth with amazement and wonder.</p>
+            <p>What then! ſhall wee never recover reaſon? ſhall wee ſtill perſever in our frenzies and madneſſe, under the protection of (wilfull) ignoranc<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>,
+<pb n="6" facs="tcp:117174:4"/>
+               <!-- PDF PAGE 82 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="7" facs="tcp:117174:4" rendition="simple:additions"/>
+               <!-- PDF PAGE 82 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="6" facs="tcp:117174:5"/>
+               <!-- PDF PAGE 83 -->and miſunderſtanding one another? after ſo great a draught is it not time to cloſe the veine? wee have gone out Tigers hitherto; ſhall wee never returne men? doe wee find ſo much ſweetneſſe in the game, that wee can<g ref="char:EOLhyphen"/>not forſake the ſent? it is the nature of houndes never to bee reclaimed from bloud that they are once fleſht in. Are wee gone ſo farre a field in heate of bloud, ſo much aſtray from humanity, that wee can find no paſſage backe?</p>
+            <p>O unhappy England! what remedy then muſt thou fly unto? what phyſick muſt thou take to purge away this malignant fever? what antidote is the beſt to expell the banefull humours from thy ſick heart? nothing but <hi>Dens-Gordium:</hi> God only who is the King of hearts: tis hee muſt doe it. This is an evill which none but that King can cure. And therefore ſince the meetings and Councells of earthly Phyſitions can doe no good, nor afford one propoſition of comfort, nor miniſter any caſe unto thee: Thou muſt have recourſe to him. Thou muſt referre the whole cure to him, who knows thy frame and conſtitution: and is (too much) acquain<g ref="char:EOLhyphen"/>ted with thy diſeaſe. Proſtrate thy ſelfe before the Synod of his Divine Wiſdome, and beſeech him for his mercy ſake to help thee. For hee will ſurely and infallibly prove thy Friend, ſo ſoone <gap reason="illegible: damage" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s thou haſt taken thy po<g ref="char:EOLhyphen"/>tion of repentance into the bottome of thy heart, according as he hath per<g ref="char:EOLhyphen"/>ſcribed. And not only a Freind to thee, but unto all that come ſo prepa<g ref="char:EOLhyphen"/>red to aske his help. Say therefore unto him. Have pitty on mee, O God, according to thy great mercy! heale me <gap reason="illegible: damage" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Lord, for I am ſick!</p>
+            <p>I am indeede: heart ſick: grieveouſly diſtem<gap reason="illegible: damage" extent="4+ letters">
+                  <desc>••••…</desc>
+               </gap> 
+               <gap reason="illegible: damage" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> my head and all my members. I am ſick to death. I have a diſeaſe th<gap reason="illegible: damage" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible: bleedthrough" extent="3+ letters">
+                  <desc>•••…</desc>
+               </gap>ence of which will ruine mee. It is deſperate, it rageth in all part<gap reason="illegible: damage" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible: damage" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible: damage" extent="2 letters">
+                  <desc>••</desc>
+               </gap>leaguereth my ve<g ref="char:EOLhyphen"/>ry heart. My life-bloud is in danger. It bruſeth and mortifieth my fleſh; even into my marrow it ſearcheh: &amp; cauſeth a diſturbance in all my bones. It ſtraineth my ſinnewes, and breaketh inſunder the ſtrongeſt ligaments of my body. My reeme is broken, my navill uncloſeth, my bowells ap<g ref="char:EOLhyphen"/>peare. O all yee that paſſe by the way! attend and ſee if there be any griefe like my griefe! attend you that ſtand aloofe! you that are my neighbours; and behould my miſeries! behould in what a dangerous caſe I am, through mine owne depraved and perverſe humour! obſerve my troubled ſtate! (a good warning peace) ſee how I lie a bleeding! what a ſtux of bloud hath iſſued from me; and yet for all this I feare the pluriſie will choke mee.</p>
+            <p>I am faint. Let mee bleed no more. I have loſt too much bloud all<g ref="char:EOLhyphen"/>ready: and that of the pureſt; of the nobleſt; and good bloud; and inno<g ref="char:EOLhyphen"/>cent bloud: Such as the butcher Cain drew from Abel. Phyſick more mild and gentle hath beene offered mee; but I would take none. I would
+<pb n="7" facs="tcp:117174:5"/>
+               <!-- PDF PAGE 83 -->digeſt none. I have wreſted too much with my ſelfe. I have built too much upon the ſtrength of mine owne body. A ſick body. A ſeveriſh body. A very fowle body. A body without all ſymetry, naturall diſpo<g ref="char:EOLhyphen"/>ſition or temper. My veines are on fire; my pulſe is out of order! My temples burne and beate into the <hi>plamater</hi> of my braine, which makes mee groane and ſigh deepe, in jealouſly that I am paſt cure. And there<g ref="char:EOLhyphen"/>fore it is, indeed high time to change my Phyſition. To repoſe no more in earthly Councells, but with an cameſt heart, and ſyncere intention, to lift up my hands and voyce to Heaven from whence all help commeth, and ſay, heale mee O Lord, for I am ſick!</p>
+            <p>Lord in this hot fitt and bitter conflict, drawe the curtaine of thy mer<g ref="char:EOLhyphen"/>cy; and refreſh mee with the comfortable ayre of thy holy Spirit! before I utterly periſh, open the Caſement of thy Divine Providence and ſend into my heart the Dove of Peace! for there is no phyſick elſe can doe mee good: No ballam is agreable to my diſeaſe as that. Death and miſera<g ref="char:EOLhyphen"/>ble confuſion is the object of warre: Of which I am made allready too ſadd a ſpectacle, but peac<gap reason="illegible: damage" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible: damage" extent="2+ letters">
+                  <desc>••…</desc>
+               </gap>s health, and all effects contrary, what warre turneth to malice, peace <gap reason="illegible: damage" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>verteth to love, what warre woundeth, peace healeth, what warre ru<gap reason="illegible: damage" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap>n, peace repaireth, what warre taketh, peace reſtoreth: If I had peace I ſhould be well: If I had peace (yet) I ſhould perfectly recover, my head would leave aking, my heart would receive comfort, I ſhould tak<gap reason="illegible: damage" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible: damage" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſt in all my members.</p>
+            <p>Lord thou haſt do<gap reason="illegible: damage" extent="2 letters">
+                  <desc>••</desc>
+               </gap>  
+               <gap reason="illegible: damage" extent="1 letter">
+                  <desc>•</desc>
+               </gap>reater cures in Iſraell! there is nothing impoſſi<g ref="char:EOLhyphen"/>ble with thee, thou <gap reason="illegible: damage" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>weſt all, thou canſt doe all: And therefore, Lord, if thou take mee in <gap reason="illegible: damage" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> I will not miſdoubt my cure: If I were dead thou canſt raiſe me<g ref="char:punc">▪</g> 
+               <gap reason="illegible: damage" extent="2 words">
+                  <desc>〈◊◊〉</desc>
+               </gap> were blind, thou canſt reſtore mes unto true and perfect ſight, if I were deafe, thou canſt renew my hearing, if a Leaper, thou canſt cleanſe mee, if I had Divells in mee, thou canſt caſt them out: No heart ſo hard but thou canſt ſoften, no will ſo perverſe and ſtubborne but thou canſt breake and maſter, no minde ſo high and puffed up, but thou canſt humble. All things are confin'd to thy power: And there is not any that can reſiſt thy will.</p>
+            <p>I doe confeſſe, Lord, that I am guilty of all: I am dead with ſinne; I am blind with errour; I am deafe which obſtinacy: revive mee with thy grace, enlighten mee with thy truth, and reconcile mee to thy holy Spirit: I am grievouſly defiled with the leproſie of all unrighteouſneſſe, but Lord who dare preſume of righteouſnes before thee, the heavens are not cleane in thy ſight: Much leſſe I that am a ſinfull nation; given to all manner of lewdneſſe and exceſſes: I am full of Devills and factious ſpirits, that have raiſed this civill tempeſt; that have cauſed all theſe rumours and combuſ<g ref="char:EOLhyphen"/>tions in mee. Vouchſafe (O moſt mercifull God) to lay and ſuppreſſe
+<pb n="8" facs="tcp:117174:6"/>
+               <!-- PDF PAGE 84 -->them with the power of thy oppoſite grace and vertues, ſuppreſſe pride with humility, envy with patience, wrath with meekneſſe, and malice with charity. Be exquiſite in thy cure as thou art exquiſite in all things: Thruſt thy tent into my broken and contrite heart, and ſearch what is amiſſe, heale that which is wounded, cleanſe that which is fowle, refreſh and water that which is withered: Nouriſh that which is cold, move that which is ſlowe, ſoften that which is hard, reduce and bring home that which is wandring.</p>
+            <p>And graunt Lord, that all ſtubbornes, and worldly reſpects being layd aſide, I may make a full and perfect reſignation of my will to thine. That I may henceforward cover nothing that is unlawfull, nor uſurpe nothing wrongfully: But that all my converſation and traffick be in thy buſineſſe and for thy glory; And finally that I may be truly penitent and ſorrowfull for all my miſdeeds, and repent mee ſore for the innocent bloud that I have ſpilt; for the families that I have ruin'd, for the Townes that I have demolliſht, for the houſes that I have ſubverted, for the plenty that I have deſtroyed and waſted, and the famin that I have made way for: That ſo by true ſorrow and humiliation recovering p<gap reason="illegible: damage" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> with thee, I may have peace with my ſelfe. <hi>Amen. Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
